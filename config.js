@@ -1,3 +1,3 @@
 window.CAMPAIGN_CONFIG = {
-  appsScriptUrl: "https://script.google.com/macros/s/AKfycbxztrrgilcNCpKSez9pEv52ReKROnlAAzN-qW6S5PS8oF8UCSQ3m6Ctz8y2xFuhrq4B2g/exec"
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbxWmoDrVC_e7W1pbidiugl1vi-MEGm284ATcHsGbz2n5FU1Hl-BaXHFGQ5Q-2-RAeXH/exec"
 };
